@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35c1739e-202f-4552-9f57-6b3834a9e4b9" name="Default Changelist" comment="" />
+    <list default="true" id="35c1739e-202f-4552-9f57-6b3834a9e4b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSort/SortTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSortData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/MergeSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +26,22 @@
     <session id="1231952385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="24" />
+          <entry key="java" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -42,52 +57,74 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/InsertionSortData.java">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="324">
+              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-160">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2187#2188#0" expanded="true" />
+                <element signature="e#2258#2259#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisualizer.java">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state relative-caret-position="-1118">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2220#2221#0" expanded="true" />
-                <element signature="e#2291#2292#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisHelper.java">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSortData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="268">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2263#2264#0" expanded="true" />
-                <element signature="e#2296#2297#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2285#2286#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +145,9 @@
       <find>setData</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,6 +167,19 @@
         <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisHelper.java" />
         <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/InsertionSortData.java" />
         <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v02_MoreAboutSelectionSortVisualization/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/Main.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSort2.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisualization.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSortData.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisHelper.java" />
       </list>
     </option>
   </component>
@@ -136,11 +189,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="-8" />
     <option name="width" value="1344" />
     <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -170,20 +226,28 @@
               <item name="AlgorithmVisualization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SelectionSortVisualization" type="462c0819:PsiDirectoryNode" />
-              <item name="v03_InsertionSortVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="v04_MergeSortMoreExplanations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmVisualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SelectionSortVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="v04_MergeSortMoreExplanations" type="462c0819:PsiDirectoryNode" />
+              <item name="MergeSortVisualization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542646605476" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542899357118" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -207,13 +271,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (2)">
+  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSortVisualization.v02_MoreAboutSelectionSortVisualization.AlgoVisualizer" />
+      <option name="MAIN_CLASS_NAME" value="SelectionSortVisualization.v04_MergeSortMoreExplanations.MergeSortVisualization.AlgoVisualizer" />
       <module name="AlgorithmVisualization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SelectionSortVisualization.v02_MoreAboutSelectionSortVisualization.*" />
+          <option name="PATTERN" value="SelectionSortVisualization.v04_MergeSortMoreExplanations.MergeSortVisualization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,6 +311,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSortVisualization.v02_MoreAboutSelectionSortVisualization.AlgoVisualizer" />
+      <module name="AlgorithmVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SelectionSortVisualization.v04_MergeSortMoreExplanations.MergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSortVisualization.v04_MergeSortMoreExplanations.OptimizedMergeSort.Main" />
+      <module name="AlgorithmVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SelectionSortVisualization.v04_MergeSortMoreExplanations.OptimizedMergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeGatesExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="three_door_issue.ThreeGatesExperiment" />
       <module name="AlgorithmVisualization" />
@@ -265,13 +355,15 @@
       <item itemvalue="Application.AlgoVisualizer" />
       <item itemvalue="Application.AlgoVisualizer (1)" />
       <item itemvalue="Application.AlgoVisualizer (2)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoVisualizer (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.AlgoVisualizer (2)" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.AlgoVisualizer" />
-        <item itemvalue="Application.ThreeGatesExperiment" />
       </list>
     </recent_temporary>
   </component>
@@ -285,45 +377,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542632901186</updated>
-      <workItem from="1542632904973" duration="5100000" />
+      <workItem from="1542632904973" duration="5507000" />
+      <workItem from="1542895105391" duration="3448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5100000" />
+    <option name="totallyTimeSpent" value="8955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2332905" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23650385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.092866756" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,13 +426,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/three_door_issue/three_doors_issue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three_door_issue/three_doors_issue.java" />
     <entry file="file://$PROJECT_DIR$/AlgorithmVisualization.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -438,16 +525,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="3350" column="16" selection-start-line="3350" selection-start-column="16" selection-end-line="3350" selection-end-column="16" />
-          <folding>
-            <element signature="e#115028#115029#0" expanded="true" />
-            <element signature="e#115075#115076#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="306">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -457,21 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/InsertionSortData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2220#2221#0" expanded="true" />
@@ -480,10 +552,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/InsertionSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v03_InsertionSortVisualization/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="242">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSort/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/MergeSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/OptimizedMergeSort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/MergeSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2285#2286#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2187#2188#0" expanded="true" />
+            <element signature="e#2258#2259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortVisualization/v04_MergeSortMoreExplanations/MergeSortVisualization/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1118">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
